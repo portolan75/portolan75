@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paolo
 - 👀 I’m interested in R, Shiny, Machine learning, Building accurate models
-- 🌱 I’m currently learning Fraud Detections, Python
+- 🌱 I’m currently learning Fraud Detections
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 💣 I'm currently building a Shiny app to track daily personal activities over time <br>
     (login authorisations and database included)
